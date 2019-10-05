@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1071668987758-rsrqm8v0pm6mjfspibtue7eojiq4igu0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://work-ba71b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1071668987758</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2lJiC8IVqeDj7f97mz648VJ1wL7zVZOw</string>
+    <string name="google_app_id" translatable="false">1:1071668987758:android:83eeccdeed67e8ec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2lJiC8IVqeDj7f97mz648VJ1wL7zVZOw</string>
+    <string name="google_storage_bucket" translatable="false">work-ba71b.appspot.com</string>
+    <string name="project_id" translatable="false">work-ba71b</string>
+</resources>
